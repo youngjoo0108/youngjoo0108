@@ -1,4 +1,32 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:CEF6F5,100:D8CEF6&height=300&section=header&text=Youngjoo's%20Profile&fontSize=70)
+
+
+<div align="center">
+
+<br/>
+
+
+![mini](https://t1.daumcdn.net/cafeattach/mEr9/1fe2a6e7d531449c33ab1e17b78aabbb1c08445a)
+<br/>
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/SSAFY-%2300BAF2.svg?&style=for-the-badge&logo=samsung&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+
+<br/>
+<br/>
+<br/>
+🌱 I’m currently learning GitHub 🌱
+<br/>
+<br/>
+
+  
+[![youngjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngjoo0108)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 
 <!--
 **youngjoo0108/youngjoo0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
