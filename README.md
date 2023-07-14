@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/MATLAB-%23EEEEEE.svg?&style=for-the-badge&logo=&logoColor=black" />
   <br/>
   <img src="https://img.shields.io/badge/fusion360-%23FF8C00.svg?&style=for-the-badge&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/dassault systemes-%23006699.svg?&style=for-the-badge&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/catia-%23006699.svg?&style=for-the-badge&logo=&logoColor=white" />
 
 <br/>
 <br/>
