@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <br/>
-🌱 I’m currently learning GitHub 🌱
+🌱 I’m currently learning Python! 🌱
 <br/>
 <br/>
 
